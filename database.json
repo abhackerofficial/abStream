@@ -1,0 +1,11 @@
+{  
+    "about": {  
+        "project":  "abStream",
+        "license":  "MIT",
+        "author":   "ABHacker Official"
+    },
+
+    "content": {
+        "data": 1
+    }
+}  
